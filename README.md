@@ -1,2 +1,2 @@
 # ふゆみき
-https://fuyumiki1232.github.io
+https://fuyumiki.pages.dev
