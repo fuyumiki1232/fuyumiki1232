@@ -1,2 +1,2 @@
 # ふゆみき
-https://fuyumiki.pages.dev
+https://fuyunet.pages.dev
